@@ -1,0 +1,10 @@
+com\lijian\service\SetmealService.class
+com\lijian\service\MemberService.class
+com\lijian\service\AddressService.class
+com\lijian\service\TravelGroupService.class
+com\lijian\service\CheckItemService.class
+com\lijian\service\UserService.class
+com\lijian\service\ValidateCodeService.class
+com\lijian\service\OrderService.class
+com\lijian\service\OrderSettingService.class
+com\lijian\service\TravelItemService.class

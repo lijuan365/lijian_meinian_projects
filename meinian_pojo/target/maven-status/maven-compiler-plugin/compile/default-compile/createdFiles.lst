@@ -1,0 +1,14 @@
+com\lijian\pojo\Role.class
+com\lijian\pojo\Menu.class
+com\lijian\pojo\Setmeal.class
+com\lijian\entity\QueryPageBean.class
+com\lijian\pojo\Order.class
+com\lijian\pojo\TravelItem.class
+com\lijian\pojo\TravelGroup.class
+com\lijian\pojo\User.class
+com\lijian\entity\PageResult.class
+com\lijian\pojo\Address.class
+com\lijian\entity\Result.class
+com\lijian\pojo\Member.class
+com\lijian\pojo\Permission.class
+com\lijian\pojo\OrderSetting.class

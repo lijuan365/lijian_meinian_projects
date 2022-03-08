@@ -1,0 +1,9 @@
+com\lijian\controller\UserController.class
+com\lijian\controller\SetmealController.class
+com\lijian\security\SpringSecurityUserService.class
+com\lijian\controller\AddressController.class
+com\lijian\controller\ReportController.class
+com\lijian\controller\TravelGroupController.class
+com\lijian\controller\OrderSettingController.class
+com\lijian\controller\TravelItemController.class
+com\lijian\security\CustomAccessDeniedHandler.class

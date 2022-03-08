@@ -1,0 +1,11 @@
+com\lijian\dao\OrdersettingDao.class
+com\lijian\dao\ValidateCodeDao.class
+com\lijian\dao\PermissionDao.class
+com\lijian\dao\OrderDao.class
+com\lijian\dao\TravelItemDao.class
+com\lijian\dao\TravelGroupDao.class
+com\lijian\dao\MemberDao.class
+com\lijian\dao\RoleDao.class
+com\lijian\dao\UserDao.class
+com\lijian\dao\AddressDao.class
+com\lijian\dao\SetmealDao.class

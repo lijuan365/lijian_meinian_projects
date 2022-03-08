@@ -1,0 +1,10 @@
+com\lijian\service\impl\OrderServiceImpl.class
+com\lijian\service\impl\UserServiceImpl.class
+com\lijian\service\impl\OrderSettingServiceImpl.class
+com\lijian\service\impl\SetmealServiceImpl.class
+com\lijian\service\impl\TravelGroupServiceImpl.class
+com\lijian\service\impl\TravelItemServiceImpl.class
+com\lijian\service\impl\AddressServiceImpl.class
+com\lijian\service\impl\CheckItemServiceImpl.class
+com\lijian\service\impl\ValidateCodeServiceImpl.class
+com\lijian\service\impl\MemberServiceImpl.class

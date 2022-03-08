@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0e33350-019e-431e-9a09-7dc122f50e29" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="美年旅游数据库" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="美年旅游数据库" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="美年旅游数据库" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="meinian: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\DevelopmentKit\Maven\install-location\apache-maven-3.8.1-bin\localRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Maven/install-location/apache-maven-3.8.1-bin/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="E:\DevelopmentKit\Maven\install-location\apache-maven-3.8.1-bin\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="11" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="--illegal-access=deny --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.math=ALL-UNNAMED  --add-opens java.base/java.io=ALL-UNNAMED" />
+  </component>
+  <component name="ProjectId" id="23V1415Z1bdVvCFP6O1C8AtQxU3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/meinian_common/src/test/java/com/lijian" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/meinian_pojo/src/main/java/com/lijian/pojo" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.41311854" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.lijian" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DevelopmentKit\IDEA2019.3.3\code\meinian_parent\meinian_pojo\src\main\java\com\lijian\pojo" />
+      <recent name="E:\DevelopmentKit\IDEA2019.3.3\code\meinian_parent\meinian_web\src\main\webapp\pages" />
+      <recent name="E:\DevelopmentKit\IDEA2019.3.3\code\meinian_parent\meinian_web\src\main\webapp\js" />
+      <recent name="E:\DevelopmentKit\IDEA2019.3.3\code\meinian_parent\meinian_common\src\main\java\com\lijian\util" />
+      <recent name="E:\DevelopmentKit\IDEA2019.3.3\code\meinian_parent\meinian_mobile_web\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\DevelopmentKit\IDEA2019.3.3\code\meinian_parent\meinian_web\src\main\webapp" />
+      <recent name="E:\DevelopmentKit\IDEA2019.3.3\code\meinian_parent\meinian_job\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MavenRunConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.meinian_job [tomcat7:run]">
+    <configuration name="TestSMS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lijian.util.TestSMS" />
+      <module name="meinian_common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lijian.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lijian.human.human" />
+      <module name="meinian_common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lijian.human.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="meinian_job [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/meinian_job" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="meinian_mobile_web [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/meinian_mobile_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="meinian_service [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/meinian_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="meinian_web [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/meinian_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.meinian_job [tomcat7:run]" />
+        <item itemvalue="Maven.meinian_mobile_web [tomcat7:run]" />
+        <item itemvalue="Maven.meinian_service [tomcat7:run]" />
+        <item itemvalue="Application.human" />
+        <item itemvalue="Application.TestSMS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.18852459" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Maven" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Maven" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0e33350-019e-431e-9a09-7dc122f50e29" name="Default Changelist" comment="" />
+      <created>1641804248998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641804248998</updated>
+      <workItem from="1641804261227" duration="24182000" />
+      <workItem from="1641905341999" duration="7769000" />
+      <workItem from="1642304928144" duration="39000" />
+      <workItem from="1642338404528" duration="84000" />
+      <workItem from="1642338778892" duration="8521000" />
+      <workItem from="1642477676800" duration="2159000" />
+      <workItem from="1642559635627" duration="4158000" />
+      <workItem from="1644195373438" duration="4136000" />
+      <workItem from="1644200910765" duration="1090000" />
+      <workItem from="1644202096673" duration="17171000" />
+      <workItem from="1644253665851" duration="14705000" />
+      <workItem from="1644306946181" duration="12494000" />
+      <workItem from="1644370661708" duration="11548000" />
+      <workItem from="1644421948659" duration="11286000" />
+      <workItem from="1645085373135" duration="711000" />
+      <workItem from="1645261861089" duration="49695000" />
+      <workItem from="1645497991980" duration="11263000" />
+      <workItem from="1645515866047" duration="10767000" />
+      <workItem from="1645541955769" duration="26694000" />
+      <workItem from="1645672224742" duration="8320000" />
+      <workItem from="1645884479068" duration="26554000" />
+      <workItem from="1645963118177" duration="4810000" />
+      <workItem from="1646024160234" duration="12703000" />
+      <workItem from="1646110930841" duration="4777000" />
+      <workItem from="1646117798030" duration="16888000" />
+      <workItem from="1646195959007" duration="7338000" />
+      <workItem from="1646223574165" duration="7000" />
+      <workItem from="1646223731371" duration="11110000" />
+      <workItem from="1646266282835" duration="17975000" />
+      <workItem from="1646395553262" duration="1250000" />
+      <workItem from="1646568522787" duration="4003000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1645946404261">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.816@0.0.1536.816" timestamp="1645946404261" />
+    <state x="223" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645360066224">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1645360066224" />
+    <state x="480" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645586224715">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="480" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1645586224715" />
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1646310478833">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1646310478833" />
+    <state x="391" y="89" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1645448956729">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="391" y="89" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.816@0.0.1536.816" timestamp="1645448956729" />
+    <state x="407" y="324" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1645951508306">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="407" y="324" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.816@0.0.1536.816" timestamp="1645951508306" />
+    <state x="557" y="324" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1645951517662">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="557" y="324" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.816@0.0.1536.816" timestamp="1645951517662" />
+    <state x="323" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1644200435220">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="323" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.816@0.0.1536.816" timestamp="1644200435220" />
+    <state x="932" y="299" width="502" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1644200446462">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="932" y="299" width="502" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.816@0.0.1536.816" timestamp="1644200446462" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1645950786475">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1645950786475" />
+    <state width="1187" height="165" key="GridCell.Tab.0.bottom" timestamp="1646658426126">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1187" height="165" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1646658426126" />
+    <state width="1187" height="165" key="GridCell.Tab.0.center" timestamp="1646658426126">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1187" height="165" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1646658426126" />
+    <state width="1187" height="165" key="GridCell.Tab.0.left" timestamp="1646658426126">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1187" height="165" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1646658426126" />
+    <state width="1187" height="165" key="GridCell.Tab.0.right" timestamp="1646658426126">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1187" height="165" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1646658426126" />
+    <state width="1187" height="165" key="GridCell.Tab.1.bottom" timestamp="1646658426127">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1187" height="165" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1646658426127" />
+    <state width="1187" height="165" key="GridCell.Tab.1.center" timestamp="1646658426126">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1187" height="165" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1646658426126" />
+    <state width="1187" height="165" key="GridCell.Tab.1.left" timestamp="1646658426126">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1187" height="165" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1646658426126" />
+    <state width="1187" height="165" key="GridCell.Tab.1.right" timestamp="1646658426126">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1187" height="165" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1646658426126" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1644196696403">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.816@0.0.1536.816" timestamp="1644196696403" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1646231655836">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1646231655836" />
+    <state x="565" y="189" key="chooseDestDirectoryDialog" timestamp="1645544060224">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="565" y="189" key="chooseDestDirectoryDialog/0.0.1536.816@0.0.1536.816" timestamp="1645544060224" />
+    <state x="360" y="100" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1645963184854">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="360" y="100" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.816@0.0.1536.816" timestamp="1645963184854" />
+    <state x="287" y="147" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1646273424020">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="287" y="147" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.816@0.0.1536.816" timestamp="1646273424020" />
+    <state x="390" y="134" width="755" height="548" key="find.popup" timestamp="1644373997325">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="390" y="134" width="755" height="548" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1644373997325" />
+    <state x="178" y="49" key="new project wizard" timestamp="1645941495479">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="178" y="49" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1645941495479" />
+    <state x="425" y="185" key="run.anything.popup" timestamp="1645942215131">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1645942215131" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1646196707470">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1646196707470" />
+    <state x="320" y="100" key="spring file set editor" timestamp="1646227219598">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="320" y="100" key="spring file set editor/0.0.1536.816@0.0.1536.816" timestamp="1646227219598" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-field">
+          <url>file://$PROJECT_DIR$/meinian_pojo/src/main/java/com/lijian/entity/PageResult.java</url>
+          <line>1</line>
+          <properties field="pageSize" class="com.lijian.entity.QueryPageBean" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/meinian_service/src/main/java/com/lijian/service/impl/MemberServiceImpl.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="" />
+        <entry key="text" value="bca" />
+      </map>
+    </option>
+  </component>
+</project>
